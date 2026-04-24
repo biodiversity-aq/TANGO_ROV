@@ -1,0 +1,23 @@
+# --- macOS ---
+.DS_Store
+
+# --- R / RStudio ---
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# --- renv ---
+renv/library/
+renv/staging/
+
+# keep lockfile for reproducibility!
+!renv.lock
+
+# --- Quarto / docs build (if applicable) ---
+_site/
+docs/_site/
+
+# --- Logs / temp ---
+*.log
+*.tmp

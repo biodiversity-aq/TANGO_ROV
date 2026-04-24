@@ -1,0 +1,364 @@
+id	name	parent_id	parentName	catamiPath	isLeaf	header	vernacularName	scientificName	taxonRank	verbatimIdentification	identificationQualifier	confidence	mappingBasis	color	label_tree_id	source_id
+376246	Colonial	376491	Stalked	Biota > Ascidians > Stalked > Colonial	True					Colonial		unmapped / descriptive	CATAMI label only	2b04e6	2564	
+376479	Solitary	376491	Stalked	Biota > Ascidians > Stalked > Solitary	True					Solitary		unmapped / descriptive	CATAMI label only	84f762	2564	
+376245	Colonial	376519	Unstalked	Biota > Ascidians > Unstalked > Colonial	True					Colonial		unmapped / descriptive	CATAMI label only	0658ef	2564	
+376179	ascidian_msp1	376478	Solitary	Biota > Ascidians > Unstalked > Solitary > ascidian_msp1	True	ascidian_msp1	ascidian	Ascidiacea	class	ascidian morphotype 1		high	header only	6a4401	2564	
+376180	ascidian_msp2	376478	Solitary	Biota > Ascidians > Unstalked > Solitary > ascidian_msp2	True	ascidian_msp2	ascidian	Ascidiacea	class	ascidian morphotype 2		high	header only	ffd500	2564	
+376181	ascidian_msp3	376478	Solitary	Biota > Ascidians > Unstalked > Solitary > ascidian_msp3	True	ascidian_msp3	ascidian	Ascidiacea	class	ascidian morphotype 3		high	header only	f8ffc7	2564	
+376182	ascidian_msp4	376478	Solitary	Biota > Ascidians > Unstalked > Solitary > ascidian_msp4	True					ascidian_msp4		unmapped / descriptive	CATAMI label only	6babef	2564	
+376183	ascidian_msp5	376478	Solitary	Biota > Ascidians > Unstalked > Solitary > ascidian_msp5	True					ascidian_msp5		unmapped / descriptive	CATAMI label only	ff8e7a	2564	
+376278	Cyanobacteria	376187	Bacterial mats	Biota > Bacterial mats > Cyanobacteria	True					Cyanobacteria		unmapped / descriptive	CATAMI label only	ea1fec	2564	
+376402	Other	376187	Bacterial mats	Biota > Bacterial mats > Other	True					Other		unmapped / descriptive	CATAMI label only	9028e7	2564	
+376251	Complex trail	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Complex trail	True					Complex trail		unmapped / descriptive	CATAMI label only	2258fd	2564	
+376263	Crater row	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Crater row	True					Crater row		unmapped / descriptive	CATAMI label only	ba31fa	2564	
+376283	Disturbed trace	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Disturbed trace	True					Disturbed trace		unmapped / descriptive	CATAMI label only	6bfe74	2564	
+376381	Mounded trail	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Mounded trail	True					Mounded trail		unmapped / descriptive	CATAMI label only	b9e839	2564	
+376415	Perforated trail	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Perforated trail	True					Perforated trail		unmapped / descriptive	CATAMI label only	57eb80	2564	
+376505	Thick trail	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Thick trail	True					Thick trail		unmapped / descriptive	CATAMI label only	3be880	2564	
+376506	Thin trail	376264	Crawling_traces	Biota > Bioturbation > Crawling_traces > Thin trail	True					Thin trail		unmapped / descriptive	CATAMI label only	2dd7ec	2564	
+376230	Burrow cluster	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Burrow cluster	True					Burrow cluster		unmapped / descriptive	CATAMI label only	3eec26	2564	
+376262	Crater cone	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Crater cone	True					Crater cone		unmapped / descriptive	CATAMI label only	3cfa32	2564	
+376291	Elongate depression	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Elongate depression	True					Elongate depression		unmapped / descriptive	CATAMI label only	2bd9f0	2564	
+376318	Fractured mound	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Fractured mound	True					Fractured mound		unmapped / descriptive	CATAMI label only	01a9e5	2564	
+376357	Large mound	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Large mound	True					Large mound		unmapped / descriptive	CATAMI label only	9ef15d	2564	
+376393	Oblique burrow	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Oblique burrow	True					Oblique burrow		unmapped / descriptive	CATAMI label only	fa4e05	2564	
+376407	Paired burrow	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Paired burrow	True					Paired burrow		unmapped / descriptive	CATAMI label only	c5ee6c	2564	
+376452	Rounded crater ring	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Rounded crater ring	True					Rounded crater ring		unmapped / descriptive	CATAMI label only	6d7ded	2564	
+376465	Single burrow	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Single burrow	True					Single burrow		unmapped / descriptive	CATAMI label only	d6e763	2564	
+376472	Small mound	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Small mound	True					Small mound		unmapped / descriptive	CATAMI label only	c8f85d	2564	
+376482	Spiked crater ring	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Spiked crater ring	True					Spiked crater ring		unmapped / descriptive	CATAMI label only	d45bf4	2564	
+376486	Spotted mound	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Spotted mound	True					Spotted mound		unmapped / descriptive	CATAMI label only	7196e8	2564	
+376508	Trapdoor burrow	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Trapdoor burrow	True					Trapdoor burrow		unmapped / descriptive	CATAMI label only	ceef0b	2564	
+376525	Vertical burrow	376285	Dwelling traces	Biota > Bioturbation > Dwelling traces > Vertical burrow	True					Vertical burrow		unmapped / descriptive	CATAMI label only	ea0f23	2564	
+376358	Large rosette	376302	Feeding traces	Biota > Bioturbation > Feeding traces > Large rosette	True					Large rosette		unmapped / descriptive	CATAMI label only	41f7e5	2564	
+376416	Petal rosette	376302	Feeding traces	Biota > Bioturbation > Feeding traces > Petal rosette	True					Petal rosette		unmapped / descriptive	CATAMI label only	9bfc7b	2564	
+376418	Pincushion rosette	376302	Feeding traces	Biota > Bioturbation > Feeding traces > Pincushion rosette	True					Pincushion rosette		unmapped / descriptive	CATAMI label only	5749e6	2564	
+376427	Rayed mound	376302	Feeding traces	Biota > Bioturbation > Feeding traces > Rayed mound	True					Rayed mound		unmapped / descriptive	CATAMI label only	5efb97	2564	
+376473	Small rosette	376302	Feeding traces	Biota > Bioturbation > Feeding traces > Small rosette	True					Small rosette		unmapped / descriptive	CATAMI label only	4b5deb	2564	
+376323	Globule xenophyophore	376400	Organism tests	Biota > Bioturbation > Organism tests > Globule xenophyophore	True					Globule xenophyophore		unmapped / descriptive	CATAMI label only	f22021	2564	
+376367	Lumpy xenophyophore	376400	Organism tests	Biota > Bioturbation > Organism tests > Lumpy xenophyophore	True					Lumpy xenophyophore		unmapped / descriptive	CATAMI label only	4e14e7	2564	
+376521	Urchin test	376400	Organism tests	Biota > Bioturbation > Organism tests > Urchin test	True					Urchin test		unmapped / descriptive	CATAMI label only	f61ee7	2564	
+376356	Large depression	376443	Resting traces	Biota > Bioturbation > Resting traces > Large depression	True					Large depression		unmapped / descriptive	CATAMI label only	e535f7	2564	
+376494	Star_impression	376443	Resting traces	Biota > Bioturbation > Resting traces > Star_impression	True					Star_impression		unmapped / descriptive	CATAMI label only	4067eb	2564	
+376522	Urchin trace	376443	Resting traces	Biota > Bioturbation > Resting traces > Urchin trace	True					Urchin trace		unmapped / descriptive	CATAMI label only	3e28f3	2564	
+376304	Fern	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Fern	True					Fern		unmapped / descriptive	CATAMI label only	eb24fa	2564	
+376374	Matchstick	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Matchstick	True					Matchstick		unmapped / descriptive	CATAMI label only	9b57f6	2564	
+376376	Mesh	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Mesh	True					Mesh		unmapped / descriptive	CATAMI label only	3df37d	2564	
+376406	Ovoid pinnate	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Ovoid pinnate	True					Ovoid pinnate		unmapped / descriptive	CATAMI label only	840eec	2564	
+376421	Pogostick	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Pogostick	True					Pogostick		unmapped / descriptive	CATAMI label only	c672fa	2564	
+376451	Round pinnate	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Round pinnate	True					Round pinnate		unmapped / descriptive	CATAMI label only	ed3c54	2564	
+376481	Spider	376518	Unknown origin	Biota > Bioturbation > Unknown origin > Spider	True					Spider		unmapped / descriptive	CATAMI label only	68dde8	2564	
+376244	Coiled casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Coiled casts	True					Coiled casts		unmapped / descriptive	CATAMI label only	66fb60	2564	
+376276	Curly casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Curly casts	True					Curly casts		unmapped / descriptive	CATAMI label only	c7e95d	2564	
+376380	Mounded casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Mounded casts	True					Mounded casts		unmapped / descriptive	CATAMI label only	a6e763	2564	
+376387	Nest casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Nest casts	True					Nest casts		unmapped / descriptive	CATAMI label only	5ef742	2564	
+376450	Round casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Round casts	True					Round casts		unmapped / descriptive	CATAMI label only	41d1f8	2564	
+376484	Spirals	376528	Waste casts	Biota > Bioturbation > Waste casts > Spirals	True					Spirals		unmapped / descriptive	CATAMI label only	f3ce56	2564	
+376501	Switchbacks	376528	Waste casts	Biota > Bioturbation > Waste casts > Switchbacks	True					Switchbacks		unmapped / descriptive	CATAMI label only	5dcefe	2564	
+376531	Wavy casts	376528	Waste casts	Biota > Bioturbation > Waste casts > Wavy casts	True					Wavy casts		unmapped / descriptive	CATAMI label only	a520f0	2564	
+376209	Brachiopods	376199	Biota	Biota > Brachiopods	True					Brachiopods		unmapped / descriptive	CATAMI label only	2925e9	2564	
+376213	Branching	376335	Hard	Biota > Bryozoa > Hard > Branching	True					Branching		unmapped / descriptive	CATAMI label only	9748f6	2564	
+376296	Encrusting	376335	Hard	Biota > Bryozoa > Hard > Encrusting	True					Encrusting		unmapped / descriptive	CATAMI label only	935af2	2564	
+376303	Fenestrate	376335	Hard	Biota > Bryozoa > Hard > Fenestrate	True					Fenestrate		unmapped / descriptive	CATAMI label only	ef9448	2564	
+376371	Massive	376335	Hard	Biota > Bryozoa > Hard > Massive	True					Massive		unmapped / descriptive	CATAMI label only	195cf0	2564	
+376279	Dendroid	376477	Soft	Biota > Bryozoa > Soft > Dendroid	True					Dendroid		unmapped / descriptive	CATAMI label only	d12deb	2564	
+376315	Foliaceous	376477	Soft	Biota > Bryozoa > Soft > Foliaceous	True					Foliaceous		unmapped / descriptive	CATAMI label only	e7c71d	2564	
+376255	Corallimorphs	376247	Colonial anemones	Biota > Cnidaria > Colonial anemones > Corallimorphs	True					Corallimorphs		unmapped / descriptive	CATAMI label only	23ee58	2564	
+376541	Zoanthids	376247	Colonial anemones	Biota > Cnidaria > Colonial anemones > Zoanthids	True					Zoanthids		unmapped / descriptive	CATAMI label only	f26eb0	2564	
+376204	Blue coral (Heliopora)	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Blue coral (Heliopora)	True					Blue coral (Heliopora)		unmapped / descriptive	CATAMI label only	a258f4	2564	
+376176	Arborescent	376313	Fleshy	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Fleshy > Arborescent	True					Arborescent		unmapped / descriptive	CATAMI label only	f66bb8	2564	
+376383	Mushroom	376313	Fleshy	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Fleshy > Mushroom	True					Mushroom		unmapped / descriptive	CATAMI label only	0cedb1	2564	
+376177	Arborescent	376390	Non-fleshy	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy > Arborescent	True					Arborescent		unmapped / descriptive	CATAMI label only	e9190e	2564	
+376249	Complex	376206	Bottle-brush	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy > Bottle-brush > Complex	True					Complex		unmapped / descriptive	CATAMI label only	e3e824	2564	
+376461	Simple	376206	Bottle-brush	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy > Bottle-brush > Simple	True					Simple		unmapped / descriptive	CATAMI label only	ee160b	2564	
+376232	Bushy	376390	Non-fleshy	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy > Bushy	True					Bushy		unmapped / descriptive	CATAMI label only	48f01a	2564	
+376293	Encrusting	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Encrusting	True					Encrusting		unmapped / descriptive	CATAMI label only	da04e7	2564	
+376250	Complex	376305	Fern-frond	Biota > Cnidaria > Corals > Black & Octocorals > Fan (2D) > Fern-frond > Complex	True					Complex		unmapped / descriptive	CATAMI label only	0733f5	2564	
+376462	Simple	376305	Fern-frond	Biota > Cnidaria > Corals > Black & Octocorals > Fan (2D) > Fern-frond > Simple	True					Simple		unmapped / descriptive	CATAMI label only	f165cd	2564	
+376445	Rigid	376301	Fan (2D)	Biota > Cnidaria > Corals > Black & Octocorals > Fan (2D) > Rigid	True					Rigid		unmapped / descriptive	CATAMI label only	5dfd69	2564	
+376373	Massive soft corals	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Massive soft corals	True					Massive soft corals		unmapped / descriptive	CATAMI label only	e96467	2564	
+376399	Organ pipe coral (Tubipora)	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Organ pipe coral (Tubipora)	True					Organ pipe coral (Tubipora)		unmapped / descriptive	CATAMI label only	fb23b3	2564	
+376426	Quill (seapen)	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Quill (seapen)	True					Quill (seapen)		unmapped / descriptive	CATAMI label only	6573f1	2564	
+376532	Whip	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Whip	True					Whip		unmapped / descriptive	CATAMI label only	91f71a	2564	
+376207	Bottlebrush	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Bottlebrush	True					Bottlebrush		unmapped / descriptive	CATAMI label only	6af1df	2564	
+376211	Branching	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Branching	True					Branching		unmapped / descriptive	CATAMI label only	04d7fd	2564	
+376248	Columnar	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Columnar	True					Columnar		unmapped / descriptive	CATAMI label only	efe25f	2564	
+376257	Corymbose	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Corymbose	True					Corymbose		unmapped / descriptive	CATAMI label only	f6222e	2564	
+376282	Digitate	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Digitate	True					Digitate		unmapped / descriptive	CATAMI label only	42e6c2	2564	
+376294	Encrusting	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Encrusting	True					Encrusting		unmapped / descriptive	CATAMI label only	72ecbd	2564	
+376316	Foliose / plate	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Foliose / plate	True					Foliose / plate		unmapped / descriptive	CATAMI label only	3f54f6	2564	
+376370	Massive	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Massive	True					Massive		unmapped / descriptive	CATAMI label only	eac716	2564	
+376186	Attached	376480	Solitary	Biota > Cnidaria > Corals > Stony corals > Solitary > Attached	True					Attached		unmapped / descriptive	CATAMI label only	21f68d	2564	
+376319	Free-living	376480	Solitary	Biota > Cnidaria > Corals > Stony corals > Solitary > Free-living	True					Free-living		unmapped / descriptive	CATAMI label only	c3f151	2564	
+376384	Mushroom (Fungiidae)	376480	Solitary	Biota > Cnidaria > Corals > Stony corals > Solitary > Mushroom (Fungiidae)	True					Mushroom (Fungiidae)		unmapped / descriptive	CATAMI label only	e8663e	2564	
+376489	Staghorn	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Staghorn	True					Staghorn		unmapped / descriptive	CATAMI label only	bc6cee	2564	
+376497	Sub-massive	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Sub-massive	True					Sub-massive		unmapped / descriptive	CATAMI label only	3460f1	2564	
+376503	Tabulate	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Tabulate	True					Tabulate		unmapped / descriptive	CATAMI label only	eb58a6	2564	
+376212	Branching	376345	Hydrocorals	Biota > Cnidaria > Hydrocorals > Branching	True					Branching		unmapped / descriptive	CATAMI label only	eb23bd	2564	
+376498	Submassive / encrusting	376345	Hydrocorals	Biota > Cnidaria > Hydrocorals > Submassive / encrusting	True					Submassive / encrusting		unmapped / descriptive	CATAMI label only	7110fb	2564	
+376346	Hydroids	376241	Cnidaria	Biota > Cnidaria > Hydroids	True					Hydroids		unmapped / descriptive	CATAMI label only	42f36c	2564	
+376314	Flytrap	376509	True anemones	Biota > Cnidaria > True anemones > Flytrap	True					Flytrap		unmapped / descriptive	CATAMI label only	f26a85	2564	
+376317	Fourlobed	376509	True anemones	Biota > Cnidaria > True anemones > Fourlobed	True					Fourlobed		unmapped / descriptive	CATAMI label only	15e6aa	2564	
+376396	orange_anemone_msp1	376403	Other anemones	Biota > Cnidaria > True anemones > Other anemones > orange_anemone_msp1	True	orange_anemone_msp1	orange anemone	Actiniaria	order	orange anemone morphotype 1		high	Table S1 says anemones	f29a02	2564	
+376538	yellow_anemone_msp2	376403	Other anemones	Biota > Cnidaria > True anemones > Other anemones > yellow_anemone_msp2	True	yellow_anemone_msp2	yellow anemone	Actiniaria	order	yellow anemone morphotype 2		high	header only	b2f202	2564	
+376513	Tube anemones	376241	Cnidaria	Biota > Cnidaria > Tube anemones	True					Tube anemones		unmapped / descriptive	CATAMI label only	ec42b8	2564	
+376174	Acorn	376191	Barnacles	Biota > Crustacea > Barnacles > Acorn	True					Acorn		unmapped / descriptive	CATAMI label only	e70411	2564	
+376490	Stalked	376191	Barnacles	Biota > Crustacea > Barnacles > Stalked	True					Stalked		unmapped / descriptive	CATAMI label only	ede15f	2564	
+376352	King crabs	376261	Crabs	Biota > Crustacea > Crabs > King crabs	True					King crabs		unmapped / descriptive	CATAMI label only	1a9afb	2564	
+376423	Porcelain crabs	376261	Crabs	Biota > Crustacea > Crabs > Porcelain crabs	True					Porcelain crabs		unmapped / descriptive	CATAMI label only	46baf9	2564	
+376510	True crabs	376261	Crabs	Biota > Crustacea > Crabs > True crabs	True					True crabs		unmapped / descriptive	CATAMI label only	16fa4b	2564	
+376534	With anemones	376336	Hermit crabs	Biota > Crustacea > Hermit crabs > With anemones	True					With anemones		unmapped / descriptive	CATAMI label only	1864f0	2564	
+376535	With shell or stone home	376336	Hermit crabs	Biota > Crustacea > Hermit crabs > With shell or stone home	True					With shell or stone home		unmapped / descriptive	CATAMI label only	fe09f5	2564	
+376324	glyptonotus_antarcticus	376350	Isopods	Biota > Crustacea > Isopods > glyptonotus_antarcticus	True					glyptonotus_antarcticus		unmapped / descriptive	CATAMI label only	ed0c0c	2564	
+376449	Rock lobsters	376364	Lobsters	Biota > Crustacea > Lobsters > Rock lobsters	True					Rock lobsters		unmapped / descriptive	CATAMI label only	619cee	2564	
+376471	Slipper lobsters / bugs	376364	Lobsters	Biota > Crustacea > Lobsters > Slipper lobsters / bugs	True					Slipper lobsters / bugs		unmapped / descriptive	CATAMI label only	e66021	2564	
+376487	Squat lobsters	376364	Lobsters	Biota > Crustacea > Lobsters > Squat lobsters	True					Squat lobsters		unmapped / descriptive	CATAMI label only	32e7f1	2564	
+376512	True lobsters	376364	Lobsters	Biota > Crustacea > Lobsters > True lobsters	True					True lobsters		unmapped / descriptive	CATAMI label only	2ee9df	2564	
+376424	Prawns / shrimps / mysids	376269	Crustacea	Biota > Crustacea > Prawns / shrimps / mysids	True					Prawns / shrimps / mysids		unmapped / descriptive	CATAMI label only	38efac	2564	
+376189	banana_star_msp7	376185	Asteroidea	Biota > Echinoderms > Asteroidea > banana_star_msp7	True	banana_star_msp7	banana star morphotype 7	Asteroidea	class	banana_star_msp7		high	header only	fdf5a0	2564	
+376197	big_spotted_star_msp14	376185	Asteroidea	Biota > Echinoderms > Asteroidea > big_spotted_star_msp14	True	big_spotted_star_msp14	big spotted star morphotype 14	Asteroidea	class	big_spotted_star_msp14		high	header only	f93434	2564	
+376228	brown_star_msp9	376185	Asteroidea	Biota > Echinoderms > Asteroidea > brown_star_msp9	True	brown_star_msp9	brown star morphotype 9	Asteroidea	class	brown_star_msp9		high	header only	612700	2564	
+376234	carrot_star_msp4	376185	Asteroidea	Biota > Echinoderms > Asteroidea > carrot_star_msp4	True	carrot_star_msp4	carrot star morphotype 4	Asteroidea	class	carrot_star_msp4		high	header only	f98133	2564	
+376238	chunky_orange_star_msp16	376185	Asteroidea	Biota > Echinoderms > Asteroidea > chunky_orange_star_msp16	True	chunky_orange_star_msp16	chunky orange star morphotype 16	Asteroidea	class	chunky_orange_star_msp16		high	header only	f98133	2564	
+376239	chunky_star_msp11	376185	Asteroidea	Biota > Echinoderms > Asteroidea > chunky_star_msp11	True	chunky_star_msp11	chunky star morphotype 11	Asteroidea	class	chunky_star_msp11		high	header only	ffeb0f	2564	
+376321	glitter_star_msp3	376185	Asteroidea	Biota > Echinoderms > Asteroidea > glitter_star_msp3	True	glitter_star_msp3	glitter star morphotype 3	Asteroidea	class	glitter_star_msp3		high	header only	ffffff	2564	
+376361	light_brown_star_msp15	376185	Asteroidea	Biota > Echinoderms > Asteroidea > light_brown_star_msp15	True	light_brown_star_msp15	light brown star morphotype 15	Asteroidea	class	light_brown_star_msp15		high	header only	34adf9	2564	
+376375	medium_yellow_star_msp13	376185	Asteroidea	Biota > Echinoderms > Asteroidea > medium_yellow_star_msp13	True	medium_yellow_star_msp13	medium yellow star morphotype 13	Asteroidea	class	medium_yellow_star_msp13		high	header only	f8df9b	2564	
+376420	pink_star_msp1	376185	Asteroidea	Biota > Echinoderms > Asteroidea > pink_star_msp1	True	pink_star_msp1	pink sea star	Odontaster validus	species	pink star morphotype 1		high	paper/Table S1	ff00f7	2564	
+376469	skinny_white_star_msp12	376185	Asteroidea	Biota > Echinoderms > Asteroidea > skinny_white_star_msp12	True	skinny_white_star_msp12	skinny white star morphotype 12	Asteroidea	class	skinny_white_star_msp12		high	header only	ffffff	2564	
+376470	skinny_yellow_star_msp10	376185	Asteroidea	Biota > Echinoderms > Asteroidea > skinny_yellow_star_msp10	True	skinny_yellow_star_msp10	skinny yellow star morphotype 10	Asteroidea	class	skinny_yellow_star_msp10		high	header only	f9f234	2564	
+376476	small_yellow_star_msp6	376185	Asteroidea	Biota > Echinoderms > Asteroidea > small_yellow_star_msp6	True	small_yellow_star_msp6	small yellow star morphotype 6	Asteroidea	class	small_yellow_star_msp6		high	header only	fff94d	2564	
+376500	sun_star_msp2	376185	Asteroidea	Biota > Echinoderms > Asteroidea > sun_star_msp2	True	sun_star_msp2	sun star morphotype 2	Asteroidea	class	sun_star_msp2		high	header only	fdb98b	2564	
+376533	white_star_msp8	376185	Asteroidea	Biota > Echinoderms > Asteroidea > white_star_msp8	True	white_star_msp8	white star morphotype 8	Asteroidea	class	white_star_msp8		high	header only	ffffff	2564	
+376540	yellow_star_msp5	376185	Asteroidea	Biota > Echinoderms > Asteroidea > yellow_star_msp5	True	yellow_star_msp5	yellow star morphotype 5	Asteroidea	class	yellow_star_msp5		high	header only	dbbe00	2564	
+376493	Stalked crinoids	376267	Crinoids	Biota > Echinoderms > Crinoids > Stalked crinoids	True					Stalked crinoids		unmapped / descriptive	CATAMI label only	e7e61b	2564	
+376266	crino_msp1	376520	Unstalked crinoids	Biota > Echinoderms > Crinoids > Unstalked crinoids > crino_msp1	True					crino_msp1		unmapped / descriptive	CATAMI label only	0f8bf5	2564	
+376340	holoth_msp1	376196	Benthic	Biota > Echinoderms > Holothurians > Benthic > holoth_msp1	True					holoth_msp1		unmapped / descriptive	CATAMI label only	5900ff	2564	
+376341	holoth_msp2	376196	Benthic	Biota > Echinoderms > Holothurians > Benthic > holoth_msp2	True					holoth_msp2		unmapped / descriptive	CATAMI label only	ffffff	2564	
+376342	holoth_msp3	376196	Benthic	Biota > Echinoderms > Holothurians > Benthic > holoth_msp3	True					holoth_msp3		unmapped / descriptive	CATAMI label only	e82001	2564	
+376343	holoth_msp4	376196	Benthic	Biota > Echinoderms > Holothurians > Benthic > holoth_msp4	True					holoth_msp4		unmapped / descriptive	CATAMI label only	e9c301	2564	
+376413	Pelagic / swimming	376344	Holothurians	Biota > Echinoderms > Holothurians > Pelagic / swimming	True					Pelagic / swimming		unmapped / descriptive	CATAMI label only	f66f90	2564	
+376193	Basket stars	376395	Ophiuroids	Biota > Echinoderms > Ophiuroids > Basket stars	True					Basket stars		unmapped / descriptive	CATAMI label only	ea35ed	2564	
+376218	brittle_msp1	376217	Brittle / snake stars	Biota > Echinoderms > Ophiuroids > Brittle / snake stars > brittle_msp1	True	brittle_msp1	brittle star	Ophiuroidea	class	brittle star morphotype 1		high	table S1 describes brittle stars	62b9e6	2564	
+376349	Irregular urchins	376524	Urchins	Biota > Echinoderms > Urchins > Irregular urchins	True					Irregular urchins		unmapped / descriptive	CATAMI label only	2409fd	2564	
+376468	Skeleton	376441	Regular urchins	Biota > Echinoderms > Urchins > Regular urchins > Skeleton	True					Skeleton		unmapped / descriptive	CATAMI label only	ffffff	2564	
+376523	urchin_msp1	376441	Regular urchins	Biota > Echinoderms > Urchins > Regular urchins > urchin_msp1	True	urchin_msp1	sea urchin	Sterechinus neumayeri	species	urchin morphotype 1		high	Table S1	700061	2564	
+376205	Bony fishes	376310	Fishes	Biota > Fishes > Bony fishes	True					Bony fishes		unmapped / descriptive	CATAMI label only	fedc44	2564	
+376288	Eels	376310	Fishes	Biota > Fishes > Eels	True					Eels		unmapped / descriptive	CATAMI label only	63eadd	2564	
+376236	Chimaeras	376289	Elasmobranchs	Biota > Fishes > Elasmobranchs > Chimaeras	True					Chimaeras		unmapped / descriptive	CATAMI label only	ef1cc4	2564	
+376428	Rays & skates	376289	Elasmobranchs	Biota > Fishes > Elasmobranchs > Rays & skates	True					Rays & skates		unmapped / descriptive	CATAMI label only	39b4fd	2564	
+376459	Sharks	376289	Elasmobranchs	Biota > Fishes > Elasmobranchs > Sharks	True					Sharks		unmapped / descriptive	CATAMI label only	f56a18	2564	
+376271	Ctenophores	376351	Jellies	Biota > Jellies > Ctenophores	True					Ctenophores		unmapped / descriptive	CATAMI label only	c406e6	2564	
+376272	Cubozoa	376351	Jellies	Biota > Jellies > Cubozoa	True					Cubozoa		unmapped / descriptive	CATAMI label only	5bf8a6	2564	
+376347	Hydromedusae	376351	Jellies	Biota > Jellies > Hydromedusae	True					Hydromedusae		unmapped / descriptive	CATAMI label only	0afefc	2564	
+376425	Pyrosomes	376351	Jellies	Biota > Jellies > Pyrosomes	True					Pyrosomes		unmapped / descriptive	CATAMI label only	43b3f5	2564	
+376453	Salps	376351	Jellies	Biota > Jellies > Salps	True					Salps		unmapped / descriptive	CATAMI label only	45e9ea	2564	
+376456	Scyphozoa	376351	Jellies	Biota > Jellies > Scyphozoa	True					Scyphozoa		unmapped / descriptive	CATAMI label only	ec0dc0	2564	
+376466	Siphonophores	376351	Jellies	Biota > Jellies > Siphonophores	True					Siphonophores		unmapped / descriptive	CATAMI label only	8fe60e	2564	
+376326	Green	376178	Articulated calcareous	Biota > Macroalgae > Articulated calcareous > Green	True					Green		unmapped / descriptive	CATAMI label only	53f95e	2564	
+376434	Red	376178	Articulated calcareous	Biota > Macroalgae > Articulated calcareous > Red	True					Red		unmapped / descriptive	CATAMI label only	f748ca	2564	
+376222	Brown	376295	Encrusting	Biota > Macroalgae > Encrusting > Brown	True					Brown		unmapped / descriptive	CATAMI label only	9a5718	2564	
+376419	pink_encr_algae	376233	Calcareous	Biota > Macroalgae > Encrusting > Red > Calcareous > pink_encr_algae	True	pink_encr_algae_msp1	pink encrusting coralline alga	Leptophytum	genus	probably Leptophytum coulmanicum	cf.	medium	Table S1 probable identification	f047d0	2564	
+376389	Non-calcareous	376436	Red	Biota > Macroalgae > Encrusting > Red > Non-calcareous	True					Non-calcareous		unmapped / descriptive	CATAMI label only	f047d0	2564	
+376333	green_encr_algae	376295	Encrusting	Biota > Macroalgae > Encrusting > green_encr_algae	True	green_encr_algae	green encrusting alga	Chlorophyta	phylum	green encrusting algae		high	header only	5ef878	2564	
+376281	desmarestia_msp2	376223	Brown	Biota > Macroalgae > Erect_coarse_branching > Brown > desmarestia_msp2	True	desmarestia_msp2	brown alga	Desmarestia anceps	species	desmarestia morphotype 2		high	paper	92950f	2564	
+376328	Green	376299	Erect_coarse_branching	Biota > Macroalgae > Erect_coarse_branching > Green	True					Green		unmapped / descriptive	CATAMI label only	39c615	2564	
+376435	Red	376299	Erect_coarse_branching	Biota > Macroalgae > Erect_coarse_branching > Red	True					Red		unmapped / descriptive	CATAMI label only	f849ca	2564	
+376280	desmarestia_msp1	376224	Brown	Biota > Macroalgae > Erect_fine_branching > Brown > desmarestia_msp1	True	desmarestia_msp1	brown alga	Desmarestia antarctica	species	desmarestia morphotype 1		high	paper	95560f	2564	
+376329	Green	376300	Erect_fine_branching	Biota > Macroalgae > Erect_fine_branching > Green	True					Green		unmapped / descriptive	CATAMI label only	39c615	2564	
+376215	branching_red_algae_msp1	376433	Red	Biota > Macroalgae > Erect_fine_branching > Red > branching_red_algae_msp1	True	branching_red_algae_msp1	branching red alga	Plocamium hookeri	species	branching red algae morphotype 1		high	paper/Table S1	f748ca	2564	
+376216	branching_red_algae_msp2	376433	Red	Biota > Macroalgae > Erect_fine_branching > Red > branching_red_algae_msp2	True	branching_red_algae_msp2	branching red alga	Trematocarpus antarcticus	species	branching red algae morphotype 2		high	paper/Table S1	8d0202	2564	
+376225	Brown	376306	Filamentous / filiform	Biota > Macroalgae > Filamentous / filiform > Brown	True					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376330	Green	376306	Filamentous / filiform	Biota > Macroalgae > Filamentous / filiform > Green	True					Green		unmapped / descriptive	CATAMI label only	39c615	2564	
+376432	Red	376306	Filamentous / filiform	Biota > Macroalgae > Filamentous / filiform > Red	True					Red		unmapped / descriptive	CATAMI label only	d839d4	2564	
+376219	Brown	376322	Globose / saccate	Biota > Macroalgae > Globose / saccate > Brown	True					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376331	Green	376322	Globose / saccate	Biota > Macroalgae > Globose / saccate > Green	True					Green		unmapped / descriptive	CATAMI label only	3bc823	2564	
+376431	Red	376322	Globose / saccate	Biota > Macroalgae > Globose / saccate > Red	True					Red		unmapped / descriptive	CATAMI label only	f748ca	2564	
+376220	Brown	376354	Laminate	Biota > Macroalgae > Laminate > Brown	True					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376327	Green	376354	Laminate	Biota > Macroalgae > Laminate > Green	True					Green		unmapped / descriptive	CATAMI label only	25ee43	2564	
+376430	Red	376354	Laminate	Biota > Macroalgae > Laminate > Red	True					Red		unmapped / descriptive	CATAMI label only	f748ca	2564	
+376339	himantothallus_msp1	376221	Brown	Biota > Macroalgae > Large canopy-forming > Brown > himantothallus_msp1	True	himantothallus_msp1	Antarctic kelp	Himantothallus grandifolius	species	himantothallus morphotype 1		high	paper/Table S1	95560f	2564	
+376334	green_sheet_algae_msp1	376332	Green	Biota > Macroalgae > Sheet-like / membraneous > Green > green_sheet_algae_msp1	True	green_sheet_algae_msp1	green sheet alga	Chlorophyta	phylum	green sheet algae morphotype 1		high	header only	3bc823	2564	
+376439	red_sheet_msp1	376429	Red	Biota > Macroalgae > Sheet-like / membraneous > Red > red_sheet_msp1	True	red_sheet_msp1	red sheet alga	Iridaea cordata	species	red sheet morphotype 1		high	paper/Table S1	f74a4a	2564	
+376440	red_sheet_msp2	376429	Red	Biota > Macroalgae > Sheet-like / membraneous > Red > red_sheet_msp2	True					red_sheet_msp2		unmapped / descriptive	CATAMI label only	f74a4a	2564	
+376227	brown_sheet_algae	376460	Sheet-like / membraneous	Biota > Macroalgae > Sheet-like / membraneous > brown_sheet_algae	True					brown_sheet_algae		unmapped / descriptive	CATAMI label only	985b1a	2564	
+376438	red_or_brown_sheet_algae	376460	Sheet-like / membraneous	Biota > Macroalgae > Sheet-like / membraneous > red_or_brown_sheet_algae	True	red_or_brown_sheet_algae_msp0	red or brown sheet alga			red or brown sheet algae morphotype 0		descriptive only	Table S1	e558c1	2564	
+376360	laternula	376231	Burrowers	Biota > Molluscs > Bivalves > Burrowers > laternula	True	laternula	Antarctic soft-shell clam	Laternula elliptica	species	laternula		high	paper/Table S1	c262e6	2564	
+376195	beige_bivalve_msp1	376388	Non-burrowers	Biota > Molluscs > Bivalves > Non-burrowers > beige_bivalve_msp1	True	beige_bivalve_msp1	beige bivalve	Bivalvia	class	beige bivalve morphotype 1		high	header only	8d9d53	2564	
+376226	brown_bivalve_msp3	376388	Non-burrowers	Biota > Molluscs > Bivalves > Non-burrowers > brown_bivalve_msp3	True	brown_bivalve_msp3	brown bivalve	Bivalvia	class	brown bivalve morphotype 3		high	header only	607be6	2564	
+376240	clam_msp2	376388	Non-burrowers	Biota > Molluscs > Bivalves > Non-burrowers > clam_msp2	True	clam_msp2	clam	Bivalvia	class	clam morphotype 2		high	header only	e66060	2564	
+376277	Cuttlefish	376235	Cephalopods	Biota > Molluscs > Cephalopods > Cuttlefish	True					Cuttlefish		unmapped / descriptive	CATAMI label only	50f0be	2564	
+376394	Octopods	376235	Cephalopods	Biota > Molluscs > Cephalopods > Octopods	True					Octopods		unmapped / descriptive	CATAMI label only	4030f5	2564	
+376488	Squid	376235	Cephalopods	Biota > Molluscs > Cephalopods > Squid	True					Squid		unmapped / descriptive	CATAMI label only	06a7e6	2564	
+376237	Chitons	376379	Molluscs	Biota > Molluscs > Chitons	True					Chitons		unmapped / descriptive	CATAMI label only	63e9d9	2564	
+376369	Margarella antarctica	376320	Gastropoda	Biota > Molluscs > Gastropoda > Margarella antarctica	True	white_snail	snail	Margarella antarctica	species	white snail		high	paper/Table S1	63e9d9	2564	
+376284	Doris_kerguelenensis	376392	Nudibranchia	Biota > Molluscs > Gastropoda > Nudibranchia > Doris_kerguelenensis	True	white_bunny_msp1	white nudibranch	Doris	genus	Doris kerguelenensis	cf.	medium	Table S1 probable identification	5edece	2564	
+376362	limpet_msp1	376511	True limpets	Biota > Molluscs > Gastropoda > True limpets > limpet_msp1	True	limpet_msp1	limpet	Patellogastropoda	order	limpet morphotype 1	cf.	medium	header only	f0f279	2564	
+376363	limpet_msp2	376511	True limpets	Biota > Molluscs > Gastropoda > True limpets > limpet_msp2	True	limpet_msp2	limpet	Patellogastropoda	order	limpet morphotype 2	cf.	medium	header only	60e3d2	2564	
+376385	nacella	376511	True limpets	Biota > Molluscs > Gastropoda > True limpets > nacella	True	nacella	Antarctic limpet	Nacella concinna	species	nacella		high	Table S1	60e3d2	2564	
+376457	Sea spiders	376199	Biota	Biota > Sea spiders	True					Sea spiders		unmapped / descriptive	CATAMI label only	4255ed	2564	
+376290	Elliptical leaves	376458	Seagrasses	Biota > Seagrasses > Elliptical leaves	True					Elliptical leaves		unmapped / descriptive	CATAMI label only	c37cfd	2564	
+376496	Strap-like leaves	376458	Seagrasses	Biota > Seagrasses > Strap-like leaves	True					Strap-like leaves		unmapped / descriptive	CATAMI label only	e851dd	2564	
+376265	Creeping / ramose	376268	Crust-like	Biota > Sponges > Crust-like > Creeping / ramose	True					Creeping / ramose		unmapped / descriptive	CATAMI label only	e6bb67	2564	
+376292	Encrusting	376268	Crust-like	Biota > Sponges > Crust-like > Encrusting	True					Encrusting		unmapped / descriptive	CATAMI label only	26d0ff	2564	
+376297	Endolithic / bioeroding	376268	Crust-like	Biota > Sponges > Crust-like > Endolithic / bioeroding	True					Endolithic / bioeroding		unmapped / descriptive	CATAMI label only	5afa92	2564	
+376192	Barrels	376274	Cup-like	Biota > Sponges > Cup-like > Barrels	True					Barrels		unmapped / descriptive	CATAMI label only	6b92ec	2564	
+376273	Cup / goblet	376275	Cups	Biota > Sponges > Cup-like > Cups > Cup / goblet	True					Cup / goblet		unmapped / descriptive	CATAMI label only	4565e6	2564	
+376348	Incomplete cup / curled fan	376275	Cups	Biota > Sponges > Cup-like > Cups > Incomplete cup / curled fan	True					Incomplete cup / curled fan		unmapped / descriptive	CATAMI label only	33ff5f	2564	
+376502	Tables / discs	376275	Cups	Biota > Sponges > Cup-like > Cups > Tables / discs	True					Tables / discs		unmapped / descriptive	CATAMI label only	ff524d	2564	
+376515	Tubes and chimneys	376274	Cup-like	Biota > Sponges > Cup-like > Tubes and chimneys	True					Tubes and chimneys		unmapped / descriptive	CATAMI label only	aaf23d	2564	
+376309	finger_sponge_msp1	376210	Branching	Biota > Sponges > Erect > Branching > finger_sponge_msp1	True	finger_sponge_msp1	finger sponge	Porifera	phylum	finger sponge morphotype 1		high	header only	ec9418	2564	
+376353	Laminar	376298	Erect	Biota > Sponges > Erect > Laminar	True					Laminar		unmapped / descriptive	CATAMI label only	1721e6	2564	
+376408	Palmate	376298	Erect	Biota > Sponges > Erect > Palmate	True					Palmate		unmapped / descriptive	CATAMI label only	f959ff	2564	
+376308	fine_orange_msp4	376464	Simple	Biota > Sponges > Erect > Simple > fine_orange_msp4	True	fine_orange_msp4	fine orange morphotype			fine orange morphotype		descriptive only	header only	5ce6cf	2564	
+376359	large_yellow_msp3	376464	Simple	Biota > Sponges > Erect > Simple > large_yellow_msp3	True	large_yellow_msp3	large yellow morphotype 3	Asteroidea	class	large_yellow_msp3		high	header only	5ce6cf	2564	
+376492	Stalked	376298	Erect	Biota > Sponges > Erect > Stalked	True					Stalked		unmapped / descriptive	CATAMI label only	73ff96	2564	
+376483	spiky_ball_sponge_msp6	376188	Balls	Biota > Sponges > Massive > Balls > spiky_ball_sponge_msp6	True	spiky_ball_sponge_msp6	spiky ball sponge	Porifera	phylum	spiky ball sponge morphotype 6		high	header only	1430ec	2564	
+376270	Cryptic	376372	Massive	Biota > Sponges > Massive > Cryptic	True					Cryptic		unmapped / descriptive	CATAMI label only	ea15dc	2564	
+376397	orange_blob_msp5	376463	Simple	Biota > Sponges > Massive > Simple > orange_blob_msp5	True	orange_blob_msp5	orange blob			orange blob morphotype 5		descriptive only	header only	f5a519	2564	
+376539	yellow_blob_msp2	376463	Simple	Biota > Sponges > Massive > Simple > yellow_blob_msp2	True	yellow_blob_msp2	yellow blob			yellow blob morphotype 2		descriptive only	header only	bbf61a	2564	
+376175	Acorn worms	376536	Worms	Biota > Worms > Acorn worms	True					Acorn worms		unmapped / descriptive	CATAMI label only	f5cf45	2564	
+376287	Echiura	376536	Worms	Biota > Worms > Echiura	True	Echiura	echiurans	Echiura	subphylum	Echiura		high	header only	41d5e7	2564	
+376312	Flatworms	376536	Worms	Biota > Worms > Flatworms	True					Flatworms		unmapped / descriptive	CATAMI label only	b8ec4c	2564	
+376409	parborlasia_aggr	376386	Nemertea	Biota > Worms > Nemertea > parborlasia_aggr	True	parborlasia_aggr	ribbon worm	Parborlasia	genus	Parborlasia aggregate		high	header	5ddcfe	2564	
+376410	parborlasia_corrugatus	376386	Nemertea	Biota > Worms > Nemertea > parborlasia_corrugatus	True	parborlasia_corrugatus	Antarctic ribbon worm	Parborlasia corrugatus	species	parborlasia corrugatus		high	header/Table S1	5ddcfe	2564	
+376414	Penisworms	376536	Worms	Biota > Worms > Penisworms	True					Penisworms		unmapped / descriptive	CATAMI label only	3042f7	2564	
+376404	Other polychaetes	376422	Polychaetes	Biota > Worms > Polychaetes > Other polychaetes	True					Other polychaetes		unmapped / descriptive	CATAMI label only	dc63e7	2564	
+376504	Terebellidae	376514	Tube worms	Biota > Worms > Polychaetes > Tube worms > Terebellidae	True	terebellidae	terebellid worm	Terebellidae	family	terebellid worms		high	Table S1	4893f2	2564	
+376467	Sipuncula	376536	Worms	Biota > Worms > Sipuncula	True					Sipuncula		unmapped / descriptive	CATAMI label only	edb374	2564	
+376474	small_pink_worm_msp1	376536	Worms	Biota > Worms > small_pink_worm_msp1	True	small_pink_worm_msp1	small pink worm			small pink worm morphotype 1		descriptive only	header only	fd9eff	2564	
+376475	small_white_worm_msp2	376536	Worms	Biota > Worms > small_white_worm_msp2	True	small_white_worm_msp2	small white worm			small white worm morphotype 2		descriptive only	Table S1	ffffff	2564	
+376446	Ripples (<10cm height)	376172	2D	Physical > Bedforms > 2D > Ripples (<10cm height)	True					Ripples (<10cm height)		unmapped / descriptive	CATAMI label only	0776f6	2564	
+376529	Waves (>10cm height)	376172	2D	Physical > Bedforms > 2D > Waves (>10cm height)	True					Waves (>10cm height)		unmapped / descriptive	CATAMI label only	52e6b8	2564	
+376447	Ripples (<10cm height)	376173	3D	Physical > Bedforms > 3D > Ripples (<10cm height)	True					Ripples (<10cm height)		unmapped / descriptive	CATAMI label only	69a7fc	2564	
+376530	Waves (>10cm height)	376173	3D	Physical > Bedforms > 3D > Waves (>10cm height)	True					Waves (>10cm height)		unmapped / descriptive	CATAMI label only	f711f0	2564	
+376200	Bioturbated	376194	Bedforms	Physical > Bedforms > Bioturbated	True					Bioturbated		unmapped / descriptive	CATAMI label only	eebb39	2564	
+376391		376194	Bedforms	Physical > Bedforms > nan	True							unmapped / descriptive	CATAMI label only	1828f7	2564	
+376311	Flat	376442	Relief	Physical > Relief > Flat	True					Flat		unmapped / descriptive	CATAMI label only	0635ec	2564	
+376338	High (>3m)	376337	High	Physical > Relief > High > High (>3m)	True					High (>3m)		unmapped / descriptive	CATAMI label only	0575f8	2564	
+376527	Wall	376337	High	Physical > Relief > High > Wall	True					Wall		unmapped / descriptive	CATAMI label only	f96c08	2564	
+376365	Low (<1m)	376366	Low / moderate	Physical > Relief > Low / moderate > Low (<1m)	True					Low (<1m)		unmapped / descriptive	CATAMI label only	75eb8f	2564	
+376378	Moderate (1-3m)	376366	Low / moderate	Physical > Relief > Low / moderate > Moderate (1-3m)	True					Moderate (1-3m)		unmapped / descriptive	CATAMI label only	00caf3	2564	
+376208	Boulders	376252	Consolidated (hard)	Physical > Substrate > Consolidated (hard) > Boulders	True					Boulders		unmapped / descriptive	CATAMI label only	7a7a7a	2564	
+376243	Cobbles	376252	Consolidated (hard)	Physical > Substrate > Consolidated (hard) > Cobbles	True					Cobbles		unmapped / descriptive	CATAMI label only	bcb7c3	2564	
+376448	Rock	376252	Consolidated (hard)	Physical > Substrate > Consolidated (hard) > Rock	True					Rock		unmapped / descriptive	CATAMI label only	000000	2564	
+376190	Barnacle plates	376198	Biologenic	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic > Barnacle plates	True					Barnacle plates		unmapped / descriptive	CATAMI label only	f3c064	2564	
+376253	Coquina / shellhash	376198	Biologenic	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic > Coquina / shellhash	True					Coquina / shellhash		unmapped / descriptive	CATAMI label only	46f84c	2564	
+376254	Coral rubble	376198	Biologenic	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic > Coral rubble	True					Coral rubble		unmapped / descriptive	CATAMI label only	43f570	2564	
+376444	Rhodoliths	376198	Biologenic	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic > Rhodoliths	True					Rhodoliths		unmapped / descriptive	CATAMI label only	f75332	2564	
+376455	Screwshells	376198	Biologenic	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic > Screwshells	True					Screwshells		unmapped / descriptive	CATAMI label only	e3fd77	2564	
+376325	Gravel (2-10mm)	376412	pebble_gravel	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Gravel (2-10mm)	True					Gravel (2-10mm)		unmapped / descriptive	CATAMI label only	f46281	2564	
+376411	Pebble (10-64mm)	376412	pebble_gravel	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Pebble (10-64mm)	True					Pebble (10-64mm)		unmapped / descriptive	CATAMI label only	3df890	2564	
+376242	Coarse sand (with shell fragments)	376454	sand_or_mud_max2mm	Physical > Substrate > Unconsolidated (soft) > sand_or_mud_max2mm > Coarse sand (with shell fragments)	True					Coarse sand (with shell fragments)		unmapped / descriptive	CATAMI label only	8ee60c	2564	
+376307	Fine sand (no shell fragments)	376454	sand_or_mud_max2mm	Physical > Substrate > Unconsolidated (soft) > sand_or_mud_max2mm > Fine sand (no shell fragments)	True					Fine sand (no shell fragments)		unmapped / descriptive	CATAMI label only	e94c84	2564	
+376382	Mud / silt (<64um)	376454	sand_or_mud_max2mm	Physical > Substrate > Unconsolidated (soft) > sand_or_mud_max2mm > Mud / silt (<64um)	True					Mud / silt (<64um)		unmapped / descriptive	CATAMI label only	07ef90	2564	
+376258	covered by algae	376517	unknown	Physical > Substrate > unknown > covered by algae	True					covered by algae		unmapped / descriptive	CATAMI label only	8a8891	2564	
+376259	covered by shells	376517	unknown	Physical > Substrate > unknown > covered by shells	True					covered by shells		unmapped / descriptive	CATAMI label only	6bff66	2564	
+376260	covered by shells/algae	376517	unknown	Physical > Substrate > unknown > covered by shells/algae	True					covered by shells/algae		unmapped / descriptive	CATAMI label only	8a8891	2564	
+376199	Biota			Biota	False					Biota		unmapped / descriptive	CATAMI label only	ae00ff	2564	
+376184	Ascidians	376199	Biota	Biota > Ascidians	False					Ascidians		unmapped / descriptive	CATAMI label only	d7ea4b	2564	
+376491	Stalked	376184	Ascidians	Biota > Ascidians > Stalked	False					Stalked		unmapped / descriptive	CATAMI label only	e5f54a	2564	
+376519	Unstalked	376184	Ascidians	Biota > Ascidians > Unstalked	False					Unstalked		unmapped / descriptive	CATAMI label only	4a22f0	2564	
+376478	Solitary	376519	Unstalked	Biota > Ascidians > Unstalked > Solitary	False					Solitary		unmapped / descriptive	CATAMI label only	776def	2564	
+376187	Bacterial mats	376199	Biota	Biota > Bacterial mats	False					Bacterial mats		unmapped / descriptive	CATAMI label only	69f0ba	2564	
+376201	Bioturbation	376199	Biota	Biota > Bioturbation	False					Bioturbation		unmapped / descriptive	CATAMI label only	f2582f	2564	
+376264	Crawling_traces	376201	Bioturbation	Biota > Bioturbation > Crawling_traces	False					Crawling_traces		unmapped / descriptive	CATAMI label only	f2297c	2564	
+376285	Dwelling traces	376201	Bioturbation	Biota > Bioturbation > Dwelling traces	False					Dwelling traces		unmapped / descriptive	CATAMI label only	e77916	2564	
+376302	Feeding traces	376201	Bioturbation	Biota > Bioturbation > Feeding traces	False					Feeding traces		unmapped / descriptive	CATAMI label only	c30df2	2564	
+376400	Organism tests	376201	Bioturbation	Biota > Bioturbation > Organism tests	False					Organism tests		unmapped / descriptive	CATAMI label only	f61ee7	2564	
+376443	Resting traces	376201	Bioturbation	Biota > Bioturbation > Resting traces	False					Resting traces		unmapped / descriptive	CATAMI label only	f6de45	2564	
+376518	Unknown origin	376201	Bioturbation	Biota > Bioturbation > Unknown origin	False					Unknown origin		unmapped / descriptive	CATAMI label only	ec30e9	2564	
+376528	Waste casts	376201	Bioturbation	Biota > Bioturbation > Waste casts	False					Waste casts		unmapped / descriptive	CATAMI label only	b22aef	2564	
+376229	Bryozoa	376199	Biota	Biota > Bryozoa	False	Bryozoa	bryozoans	Bryozoa	phylum	Bryozoa		high	header only	46e5ab	2564	
+376335	Hard	376229	Bryozoa	Biota > Bryozoa > Hard	False					Hard		unmapped / descriptive	CATAMI label only	31e5fb	2564	
+376477	Soft	376229	Bryozoa	Biota > Bryozoa > Soft	False					Soft		unmapped / descriptive	CATAMI label only	56ee16	2564	
+376241	Cnidaria	376199	Biota	Biota > Cnidaria	False					Cnidaria		unmapped / descriptive	CATAMI label only	e64866	2564	
+376247	Colonial anemones	376241	Cnidaria	Biota > Cnidaria > Colonial anemones	False					Colonial anemones		unmapped / descriptive	CATAMI label only	6e6eec	2564	
+376256	Corals	376241	Cnidaria	Biota > Cnidaria > Corals	False					Corals		unmapped / descriptive	CATAMI label only	ef6ad6	2564	
+376203	Black & Octocorals	376256	Corals	Biota > Cnidaria > Corals > Black & Octocorals	False					Black & Octocorals		unmapped / descriptive	CATAMI label only	e62b47	2564	
+376214	Branching (3D)	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D)	False					Branching (3D)		unmapped / descriptive	CATAMI label only	f746db	2564	
+376313	Fleshy	376214	Branching (3D)	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Fleshy	False					Fleshy		unmapped / descriptive	CATAMI label only	e9f41e	2564	
+376390	Non-fleshy	376214	Branching (3D)	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy	False					Non-fleshy		unmapped / descriptive	CATAMI label only	fa0d67	2564	
+376206	Bottle-brush	376390	Non-fleshy	Biota > Cnidaria > Corals > Black & Octocorals > Branching (3D) > Non-fleshy > Bottle-brush	False					Bottle-brush		unmapped / descriptive	CATAMI label only	ed50dc	2564	
+376301	Fan (2D)	376203	Black & Octocorals	Biota > Cnidaria > Corals > Black & Octocorals > Fan (2D)	False					Fan (2D)		unmapped / descriptive	CATAMI label only	f3ab36	2564	
+376305	Fern-frond	376301	Fan (2D)	Biota > Cnidaria > Corals > Black & Octocorals > Fan (2D) > Fern-frond	False					Fern-frond		unmapped / descriptive	CATAMI label only	45e1fd	2564	
+376495	Stony corals	376256	Corals	Biota > Cnidaria > Corals > Stony corals	False					Stony corals		unmapped / descriptive	CATAMI label only	ef862c	2564	
+376480	Solitary	376495	Stony corals	Biota > Cnidaria > Corals > Stony corals > Solitary	False					Solitary		unmapped / descriptive	CATAMI label only	9642fb	2564	
+376345	Hydrocorals	376241	Cnidaria	Biota > Cnidaria > Hydrocorals	False					Hydrocorals		unmapped / descriptive	CATAMI label only	d95ef8	2564	
+376509	True anemones	376241	Cnidaria	Biota > Cnidaria > True anemones	False					True anemones		unmapped / descriptive	CATAMI label only	90fd3b	2564	
+376403	Other anemones	376509	True anemones	Biota > Cnidaria > True anemones > Other anemones	False					Other anemones		unmapped / descriptive	CATAMI label only	50f302	2564	
+376269	Crustacea	376199	Biota	Biota > Crustacea	False					Crustacea		unmapped / descriptive	CATAMI label only	0d7bec	2564	
+376191	Barnacles	376269	Crustacea	Biota > Crustacea > Barnacles	False					Barnacles		unmapped / descriptive	CATAMI label only	dbf249	2564	
+376261	Crabs	376269	Crustacea	Biota > Crustacea > Crabs	False					Crabs		unmapped / descriptive	CATAMI label only	edf672	2564	
+376336	Hermit crabs	376269	Crustacea	Biota > Crustacea > Hermit crabs	False					Hermit crabs		unmapped / descriptive	CATAMI label only	f28442	2564	
+376350	Isopods	376269	Crustacea	Biota > Crustacea > Isopods	False					Isopods		unmapped / descriptive	CATAMI label only	ed0c0c	2564	
+376364	Lobsters	376269	Crustacea	Biota > Crustacea > Lobsters	False					Lobsters		unmapped / descriptive	CATAMI label only	816af5	2564	
+376286	Echinoderms	376199	Biota	Biota > Echinoderms	False					Echinoderms		unmapped / descriptive	CATAMI label only	f937fb	2564	
+376185	Asteroidea	376286	Echinoderms	Biota > Echinoderms > Asteroidea	False	Asteroidea	sea stars	Asteroidea	class	Asteroidea		high	header only	f98133	2564	
+376267	Crinoids	376286	Echinoderms	Biota > Echinoderms > Crinoids	False					Crinoids		unmapped / descriptive	CATAMI label only	a0f810	2564	
+376520	Unstalked crinoids	376267	Crinoids	Biota > Echinoderms > Crinoids > Unstalked crinoids	False					Unstalked crinoids		unmapped / descriptive	CATAMI label only	0f8bf5	2564	
+376344	Holothurians	376286	Echinoderms	Biota > Echinoderms > Holothurians	False					Holothurians		unmapped / descriptive	CATAMI label only	ec9a26	2564	
+376196	Benthic	376344	Holothurians	Biota > Echinoderms > Holothurians > Benthic	False					Benthic		unmapped / descriptive	CATAMI label only	e82001	2564	
+376395	Ophiuroids	376286	Echinoderms	Biota > Echinoderms > Ophiuroids	False					Ophiuroids		unmapped / descriptive	CATAMI label only	41faf8	2564	
+376217	Brittle / snake stars	376395	Ophiuroids	Biota > Echinoderms > Ophiuroids > Brittle / snake stars	False					Brittle / snake stars		unmapped / descriptive	CATAMI label only	62b9e6	2564	
+376524	Urchins	376286	Echinoderms	Biota > Echinoderms > Urchins	False					Urchins		unmapped / descriptive	CATAMI label only	7c2be8	2564	
+376441	Regular urchins	376524	Urchins	Biota > Echinoderms > Urchins > Regular urchins	False					Regular urchins		unmapped / descriptive	CATAMI label only	fead15	2564	
+376310	Fishes	376199	Biota	Biota > Fishes	False					Fishes		unmapped / descriptive	CATAMI label only	50f6ec	2564	
+376289	Elasmobranchs	376310	Fishes	Biota > Fishes > Elasmobranchs	False					Elasmobranchs		unmapped / descriptive	CATAMI label only	a77bf8	2564	
+376351	Jellies	376199	Biota	Biota > Jellies	False					Jellies		unmapped / descriptive	CATAMI label only	89ed3c	2564	
+376368	Macroalgae	376199	Biota	Biota > Macroalgae	False	Macroalgae	macroalgae			Macroalgae		descriptive only	header only	0b0feb	2564	
+376368	Macroalgae	376199	Biota	Biota > Macroalgae	False	macroalgae	macroalgae			macroalgae		descriptive only	header only	0b0feb	2564	
+376178	Articulated calcareous	376368	Macroalgae	Biota > Macroalgae > Articulated calcareous	False					Articulated calcareous		unmapped / descriptive	CATAMI label only	52bef9	2564	
+376295	Encrusting	376368	Macroalgae	Biota > Macroalgae > Encrusting	False					Encrusting		unmapped / descriptive	CATAMI label only	78fdcd	2564	
+376436	Red	376295	Encrusting	Biota > Macroalgae > Encrusting > Red	False					Red		unmapped / descriptive	CATAMI label only	f047d0	2564	
+376233	Calcareous	376436	Red	Biota > Macroalgae > Encrusting > Red > Calcareous	False					Calcareous		unmapped / descriptive	CATAMI label only	f047d0	2564	
+376299	Erect_coarse_branching	376368	Macroalgae	Biota > Macroalgae > Erect_coarse_branching	False					Erect_coarse_branching		unmapped / descriptive	CATAMI label only	2bb4f8	2564	
+376223	Brown	376299	Erect_coarse_branching	Biota > Macroalgae > Erect_coarse_branching > Brown	False					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376300	Erect_fine_branching	376368	Macroalgae	Biota > Macroalgae > Erect_fine_branching	False					Erect_fine_branching		unmapped / descriptive	CATAMI label only	1d38e6	2564	
+376224	Brown	376300	Erect_fine_branching	Biota > Macroalgae > Erect_fine_branching > Brown	False					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376433	Red	376300	Erect_fine_branching	Biota > Macroalgae > Erect_fine_branching > Red	False					Red		unmapped / descriptive	CATAMI label only	f748ca	2564	
+376306	Filamentous / filiform	376368	Macroalgae	Biota > Macroalgae > Filamentous / filiform	False	filamentous_filiform_algae	diatom mat	Bacillariophyta	phylum	filamentous filiform algae		high	paper calls these diatom mats	e93ee4	2564	
+376322	Globose / saccate	376368	Macroalgae	Biota > Macroalgae > Globose / saccate	False					Globose / saccate		unmapped / descriptive	CATAMI label only	35c4fe	2564	
+376354	Laminate	376368	Macroalgae	Biota > Macroalgae > Laminate	False					Laminate		unmapped / descriptive	CATAMI label only	f3365f	2564	
+376355	Large canopy-forming	376368	Macroalgae	Biota > Macroalgae > Large canopy-forming	False					Large canopy-forming		unmapped / descriptive	CATAMI label only	aae964	2564	
+376221	Brown	376355	Large canopy-forming	Biota > Macroalgae > Large canopy-forming > Brown	False					Brown		unmapped / descriptive	CATAMI label only	95560f	2564	
+376460	Sheet-like / membraneous	376368	Macroalgae	Biota > Macroalgae > Sheet-like / membraneous	False					Sheet-like / membraneous		unmapped / descriptive	CATAMI label only	e558c1	2564	
+376332	Green	376460	Sheet-like / membraneous	Biota > Macroalgae > Sheet-like / membraneous > Green	False					Green		unmapped / descriptive	CATAMI label only	3bc823	2564	
+376429	Red	376460	Sheet-like / membraneous	Biota > Macroalgae > Sheet-like / membraneous > Red	False					Red		unmapped / descriptive	CATAMI label only	f748ca	2564	
+376379	Molluscs	376199	Biota	Biota > Molluscs	False					Molluscs		unmapped / descriptive	CATAMI label only	4ef583	2564	
+376202	Bivalves	376379	Molluscs	Biota > Molluscs > Bivalves	False					Bivalves		unmapped / descriptive	CATAMI label only	4ef583	2564	
+376231	Burrowers	376202	Bivalves	Biota > Molluscs > Bivalves > Burrowers	False					Burrowers		unmapped / descriptive	CATAMI label only	c262e6	2564	
+376388	Non-burrowers	376202	Bivalves	Biota > Molluscs > Bivalves > Non-burrowers	False					Non-burrowers		unmapped / descriptive	CATAMI label only	c262e6	2564	
+376235	Cephalopods	376379	Molluscs	Biota > Molluscs > Cephalopods	False					Cephalopods		unmapped / descriptive	CATAMI label only	4ef583	2564	
+376320	Gastropoda	376379	Molluscs	Biota > Molluscs > Gastropoda	False					Gastropoda		unmapped / descriptive	CATAMI label only	63e9d9	2564	
+376392	Nudibranchia	376320	Gastropoda	Biota > Molluscs > Gastropoda > Nudibranchia	False					Nudibranchia		unmapped / descriptive	CATAMI label only	5edece	2564	
+376511	True limpets	376320	Gastropoda	Biota > Molluscs > Gastropoda > True limpets	False					True limpets		unmapped / descriptive	CATAMI label only	60e3d2	2564	
+376458	Seagrasses	376199	Biota	Biota > Seagrasses	False					Seagrasses		unmapped / descriptive	CATAMI label only	fc4d0a	2564	
+376485	Sponges	376199	Biota	Biota > Sponges	False	sponges	sponges	Porifera	phylum	sponges		high	header only	4cf739	2564	
+376268	Crust-like	376485	Sponges	Biota > Sponges > Crust-like	False					Crust-like		unmapped / descriptive	CATAMI label only	5178e9	2564	
+376274	Cup-like	376485	Sponges	Biota > Sponges > Cup-like	False					Cup-like		unmapped / descriptive	CATAMI label only	f4646b	2564	
+376275	Cups	376274	Cup-like	Biota > Sponges > Cup-like > Cups	False					Cups		unmapped / descriptive	CATAMI label only	309bf2	2564	
+376298	Erect	376485	Sponges	Biota > Sponges > Erect	False					Erect		unmapped / descriptive	CATAMI label only	3956e6	2564	
+376210	Branching	376298	Erect	Biota > Sponges > Erect > Branching	False					Branching		unmapped / descriptive	CATAMI label only	ff4ddb	2564	
+376464	Simple	376298	Erect	Biota > Sponges > Erect > Simple	False					Simple		unmapped / descriptive	CATAMI label only	5ce6cf	2564	
+376372	Massive	376485	Sponges	Biota > Sponges > Massive	False					Massive		unmapped / descriptive	CATAMI label only	4268f4	2564	
+376188	Balls	376372	Massive	Biota > Sponges > Massive > Balls	False					Balls		unmapped / descriptive	CATAMI label only	1430ec	2564	
+376463	Simple	376372	Massive	Biota > Sponges > Massive > Simple	False					Simple		unmapped / descriptive	CATAMI label only	bbf61a	2564	
+376536	Worms	376199	Biota	Biota > Worms	False	Worms	worms			Worms		descriptive only	header only	5ddcfe	2564	
+376386	Nemertea	376536	Worms	Biota > Worms > Nemertea	False					Nemertea		unmapped / descriptive	CATAMI label only	5ddcfe	2564	
+376422	Polychaetes	376536	Worms	Biota > Worms > Polychaetes	False					Polychaetes		unmapped / descriptive	CATAMI label only	0a8ce8	2564	
+376514	Tube worms	376422	Polychaetes	Biota > Worms > Polychaetes > Tube worms	False					Tube worms		unmapped / descriptive	CATAMI label only	4893f2	2564	
+376417	Physical			Physical	False					Physical		unmapped / descriptive	CATAMI label only	ffffff	2564	
+376194	Bedforms	376417	Physical	Physical > Bedforms	False					Bedforms		unmapped / descriptive	CATAMI label only	db41f7	2564	
+376172	2D	376194	Bedforms	Physical > Bedforms > 2D	False					2D		unmapped / descriptive	CATAMI label only	69fe79	2564	
+376173	3D	376194	Bedforms	Physical > Bedforms > 3D	False					3D		unmapped / descriptive	CATAMI label only	54a0eb	2564	
+376442	Relief	376417	Physical	Physical > Relief	False					Relief		unmapped / descriptive	CATAMI label only	6cbff7	2564	
+376337	High	376442	Relief	Physical > Relief > High	False					High		unmapped / descriptive	CATAMI label only	24f497	2564	
+376366	Low / moderate	376442	Relief	Physical > Relief > Low / moderate	False					Low / moderate		unmapped / descriptive	CATAMI label only	ef67f6	2564	
+376499	Substrate	376417	Physical	Physical > Substrate	False					Substrate		unmapped / descriptive	CATAMI label only	b4a2af	2564	
+376252	Consolidated (hard)	376499	Substrate	Physical > Substrate > Consolidated (hard)	False					Consolidated (hard)		unmapped / descriptive	CATAMI label only	474847	2564	
+376516	Unconsolidated (soft)	376499	Substrate	Physical > Substrate > Unconsolidated (soft)	False					Unconsolidated (soft)		unmapped / descriptive	CATAMI label only	e1d9a3	2564	
+376412	pebble_gravel	376516	Unconsolidated (soft)	Physical > Substrate > Unconsolidated (soft) > pebble_gravel	False					pebble_gravel		unmapped / descriptive	CATAMI label only	e5b663	2564	
+376198	Biologenic	376412	pebble_gravel	Physical > Substrate > Unconsolidated (soft) > pebble_gravel > Biologenic	False					Biologenic		unmapped / descriptive	CATAMI label only	4739f1	2564	
+376454	sand_or_mud_max2mm	376516	Unconsolidated (soft)	Physical > Substrate > Unconsolidated (soft) > sand_or_mud_max2mm	False					sand_or_mud_max2mm		unmapped / descriptive	CATAMI label only	dce86f	2564	
+376517	unknown	376499	Substrate	Physical > Substrate > unknown	False					unknown		unmapped / descriptive	CATAMI label only	8a8891	2564	

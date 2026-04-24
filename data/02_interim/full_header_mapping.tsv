@@ -1,0 +1,99 @@
+header	vernacularName	scientificName	taxonRank	verbatimIdentification	confidence	mappingBasis
+Asteroidea	sea stars	Asteroidea	class	Asteroidea	high	header only
+Bryozoa	bryozoans	Bryozoa	phylum	Bryozoa	high	header only
+Echiura	echiurans	Echiura	subphylum	Echiura	high	header only
+Macroalgae	macroalgae			Macroalgae	descriptive only	header only
+Unnamed: 0	record identifier			row identifier	not a taxon	csv structure
+VME_unknown	unknown VME taxon/feature			VME unknown	descriptive only	header only
+Worms	worms			Worms	descriptive only	header only
+anemone	anemone	Actiniaria	order	anemone	high	header only
+ascidian_msp1	ascidian	Ascidiacea	class	ascidian morphotype 1	high	header only
+ascidian_msp2	ascidian	Ascidiacea	class	ascidian morphotype 2	high	header only
+ascidian_msp3	ascidian	Ascidiacea	class	ascidian morphotype 3	high	header only
+banana_star_msp7	banana star morphotype 7	Asteroidea	class	banana_star_msp7	high	header only
+beige_bivalve_msp1	beige bivalve	Bivalvia	class	beige bivalve morphotype 1	high	header only
+big_spotted_star_msp14	big spotted star morphotype 14	Asteroidea	class	big_spotted_star_msp14	high	header only
+bivalve	bivalve	Bivalvia	class	bivalve	high	header only
+blue_holoth_msp1	blue sea cucumber	Heterocucumis	genus	Heterocucumis steineni	medium	Table S1 probable identification
+branching_red_algae_msp1	branching red alga	Plocamium hookeri	species	branching red algae morphotype 1	high	paper/Table S1
+branching_red_algae_msp2	branching red alga	Trematocarpus antarcticus	species	branching red algae morphotype 2	high	paper/Table S1
+brittle_msp1	brittle star	Ophiuroidea	class	brittle star morphotype 1	high	table S1 describes brittle stars
+brown_bivalve_msp3	brown bivalve	Bivalvia	class	brown bivalve morphotype 3	high	header only
+brown_star_msp9	brown star morphotype 9	Asteroidea	class	brown_star_msp9	high	header only
+carrot_star_msp4	carrot star morphotype 4	Asteroidea	class	carrot_star_msp4	high	header only
+chunky_orange_star_msp16	chunky orange star morphotype 16	Asteroidea	class	chunky_orange_star_msp16	high	header only
+chunky_star_msp11	chunky star morphotype 11	Asteroidea	class	chunky_star_msp11	high	header only
+clam_msp2	clam	Bivalvia	class	clam morphotype 2	high	header only
+desmarestia_msp1	brown alga	Desmarestia antarctica	species	desmarestia morphotype 1	high	paper
+desmarestia_msp2	brown alga	Desmarestia anceps	species	desmarestia morphotype 2	high	paper
+echiura_msp1	echiuran	Echiura	subphylum	echiuran morphotype 1	high	header only
+edwardsiella_msp4	burrowing anemone	Edwardsiella andrillae	species	edwardsiella morphotype 4	high	paper/Table S1
+encrusting_algae	encrusting alga			encrusting algae	descriptive only	header only
+encrusting_sponge	encrusting sponge	Porifera	phylum	encrusting sponge	high	header only
+erect_sponge	erect sponge	Porifera	phylum	erect sponge	high	header only
+filamentous_filiform_algae	diatom mat	Bacillariophyta	phylum	filamentous filiform algae	high	paper calls these diatom mats
+filamentous_green_algae	filamentous green alga	Chlorophyta	phylum	filamentous green algae	high	header only
+fine_orange_msp4	fine orange morphotype			fine orange morphotype	descriptive only	header only
+finger_sponge_msp1	finger sponge	Porifera	phylum	finger sponge morphotype 1	high	header only
+fish	fish			fish	descriptive only	header only
+glitter_star_msp3	glitter star morphotype 3	Asteroidea	class	glitter_star_msp3	high	header only
+glypt_ant	Antarctic isopod	Glyptonotus	genus	glypt_ant	medium	header shorthand
+green_encr_algae	green encrusting alga	Chlorophyta	phylum	green encrusting algae	high	header only
+green_sheet_algae_msp1	green sheet alga	Chlorophyta	phylum	green sheet algae morphotype 1	high	header only
+himantothallus_msp1	Antarctic kelp	Himantothallus grandifolius	species	himantothallus morphotype 1	high	paper/Table S1
+laminate_brown	laminate brown alga	Phaeophyceae	class	laminate brown algae	high	header only
+large_yellow_msp3	large yellow morphotype 3	Asteroidea	class	large_yellow_msp3	high	header only
+laternula	Antarctic soft-shell clam	Laternula elliptica	species	laternula	high	paper/Table S1
+light_brown_star_msp15	light brown star morphotype 15	Asteroidea	class	light_brown_star_msp15	high	header only
+limpet_msp1	limpet	Patellogastropoda	order	limpet morphotype 1	medium	header only
+limpet_msp2	limpet	Patellogastropoda	order	limpet morphotype 2	medium	header only
+macroalgae	macroalgae			macroalgae	descriptive only	header only
+medium_yellow_star_msp13	medium yellow star morphotype 13	Asteroidea	class	medium_yellow_star_msp13	high	header only
+mollusc	mollusc	Mollusca	phylum	mollusc	high	header only
+nacella	Antarctic limpet	Nacella concinna	species	nacella	high	Table S1
+nudibranch	nudibranch	Nudibranchia	order	nudibranch	high	header only
+orange_anemone_msp1	orange anemone	Actiniaria	order	orange anemone morphotype 1	high	Table S1 says anemones
+orange_blob_msp5	orange blob			orange blob morphotype 5	descriptive only	header only
+orange_holoth_msp4	orange sea cucumber	Holothuroidea	class	orange holothurian morphotype 4	high	header only
+pale_yellow_ascidian_msp5	pale yellow ascidian	Ascidiacea	class	pale yellow ascidian morphotype 5	high	header only
+parborlasia_aggr	ribbon worm	Parborlasia	genus	Parborlasia aggregate	high	header
+parborlasia_corrugatus	Antarctic ribbon worm	Parborlasia corrugatus	species	parborlasia corrugatus	high	header/Table S1
+pink_encr_algae	pink encrusting coralline alga	Leptophytum	genus	probably Leptophytum coulmanicum	medium	paper/Table S1 coralline algae; probable Leptophytum
+pink_encr_algae_msp1	pink encrusting coralline alga	Leptophytum	genus	probably Leptophytum coulmanicum	medium	Table S1 probable identification
+pink_star_msp1	pink sea star	Odontaster validus	species	pink star morphotype 1	high	paper/Table S1
+pycnogonid_msp1	sea spider	Pycnogonida	class	pycnogonid morphotype 1	high	header only
+red_brown_ascidian_msp4	red-brown ascidian	Ascidiacea	class	red-brown ascidian morphotype 4	high	header only
+red_or_brown_sheet_algae	red or brown sheet alga			red or brown sheet algae	descriptive only	header only
+red_or_brown_sheet_algae_msp0	red or brown sheet alga			red or brown sheet algae morphotype 0	descriptive only	Table S1
+red_sheet_msp1	red sheet alga	Iridaea cordata	species	red sheet morphotype 1	high	paper/Table S1
+skinny_white_star_msp12	skinny white star morphotype 12	Asteroidea	class	skinny_white_star_msp12	high	header only
+skinny_yellow_star_msp10	skinny yellow star morphotype 10	Asteroidea	class	skinny_yellow_star_msp10	high	header only
+small_pink_worm_msp1	small pink worm			small pink worm morphotype 1	descriptive only	header only
+small_white_worm_msp2	small white worm			small white worm morphotype 2	descriptive only	Table S1
+small_yellow_star_msp6	small yellow star morphotype 6	Asteroidea	class	small_yellow_star_msp6	high	header only
+spiky_ball_sponge_msp6	spiky ball sponge	Porifera	phylum	spiky ball sponge morphotype 6	high	header only
+spiky_massive_msp9	spiky massive morphotype			spiky massive morphotype 9	descriptive only	Table S1
+spiky_yellow_msp7	spiky yellow sponge	Dendrilla antarctica	species	spiky yellow morphotype 7	high	paper/Table S1
+sponges	sponges	Porifera	phylum	sponges	high	header only
+starfish	sea stars	Asteroidea	class	starfish	high	header only
+sun_star_msp2	sun star morphotype 2	Asteroidea	class	sun_star_msp2	high	header only
+terebellidae	terebellid worm	Terebellidae	family	terebellid worms	high	Table S1
+translucent_blob	translucent blob			translucent blob morphotype	descriptive only	header only
+urchin_msp1	sea urchin	Sterechinus neumayeri	species	urchin morphotype 1	high	Table S1
+wavy_msp3	wavy morphotype			wavy morphotype	descriptive only	header only
+white_amphipod_msp1	white amphipod	Amphipoda	order	white amphipod morphotype 1	high	header only
+white_anemone_msp3	white anemone	Actiniaria	order	white anemone morphotype 3	high	header/Table S1
+white_ascidian_msp3	white ascidian	Ascidiacea	class	white ascidian morphotype 3	high	header only
+white_bunny_msp1	white nudibranch	Doris	genus	Doris kerguelenensis	medium	Table S1 probable identification
+white_holoth_msp2	white sea cucumber	Holothuroidea	class	white holothurian morphotype 2	high	header only
+white_massive_msp10	massive white sponge	Porifera	phylum	white massive sponge morphotype 10	high	Table S1 calls it a sponge morphotype
+white_porcupine_msp2	white porcupine morphotype			white porcupine morphotype 2	descriptive only	header only
+white_snail	snail	Margarella antarctica	species	white snail	high	paper/Table S1
+white_star_msp8	white star morphotype 8	Asteroidea	class	white_star_msp8	high	header only
+worm	worm			worm	descriptive only	header only
+yellow_anemone_msp2	yellow anemone	Actiniaria	order	yellow anemone morphotype 2	high	header only
+yellow_ascidian_msp2	yellow ascidian	Ascidiacea	class	yellow ascidian morphotype 2	high	header only
+yellow_blob_msp2	yellow blob			yellow blob morphotype 2	descriptive only	header only
+yellow_brown_ascidian_msp1	yellow-brown ascidian	Ascidiacea	class	yellow-brown ascidian morphotype 1	high	header only
+yellow_finger_msp8	yellow finger sponge	Porifera	phylum	yellow finger morphotype 8	medium	header likely sponge growth form
+yellow_star_msp5	yellow star morphotype 5	Asteroidea	class	yellow_star_msp5	high	header only
