@@ -46,3 +46,14 @@ https://zenodo.org/records/12653521
 > Individual animals were kept as counts, but the abundance of macroalgae and colonial animals was converted into percentage (%) cover.
 
 - check depth range from paper and dataset
+
+---
+
+## Log
+
+The abundance files contain `\r`. Remove it with command:
+
+```bash
+tr -d '\r' < tango1_abundance_raw.csv > tango1_abundance_remove-cr.csv
+tr -d '\r' < tango2_abundance_raw.csv > tango2_abundance_remove-cr.csv
+```
