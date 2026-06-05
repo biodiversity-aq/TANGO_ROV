@@ -1,0 +1,7 @@
+sourceFileName	eventID	deposition_id	doi	doi_url	image_url	uploaded_at	status	error
+TANGO1_ROV13_q1_whole.tif	TANGO1_ROV13_q1	509395	10.5281/zenodo.509395	https://doi.org/10.5281/zenodo.509395	https://sandbox.zenodo.org/api/records/509395/files/TANGO1_ROV13_q1_whole.tif	2026-06-05 13:54:19.111679	success	NA
+TANGO1_ROV13_q2_ortho_whole.tif	TANGO1_ROV13_q2	509397	10.5281/zenodo.509397	https://doi.org/10.5281/zenodo.509397	https://sandbox.zenodo.org/api/records/509397/files/TANGO1_ROV13_q2_ortho_whole.tif	2026-06-05 13:54:34.003699	success	NA
+TANGO1_ROV13_q3_whole.tif	TANGO1_ROV13_q3	509399	10.5281/zenodo.509399	https://doi.org/10.5281/zenodo.509399	https://sandbox.zenodo.org/api/records/509399/files/TANGO1_ROV13_q3_whole.tif	2026-06-05 13:55:25.410551	success	NA
+TANGO1_ROV4_q1_ortho_better.tif	TANGO1_ROV4_q1	509401	10.5281/zenodo.509401	https://doi.org/10.5281/zenodo.509401	https://sandbox.zenodo.org/api/records/509401/files/TANGO1_ROV4_q1_ortho_better.tif	2026-06-05 13:56:56.748159	success	NA
+TANGO1_ROV4_q3_ortho_whole_blended.tif	TANGO1_ROV4_q3	509403	10.5281/zenodo.509403	https://doi.org/10.5281/zenodo.509403	https://sandbox.zenodo.org/api/records/509403/files/TANGO1_ROV4_q3_ortho_whole_blended.tif	2026-06-05 14:04:21.203229	success	NA
+TANGO1_ROV6_q1_ortho_whole.tif	TANGO1_ROV6_q1	509409	10.5281/zenodo.509409	https://doi.org/10.5281/zenodo.509409	https://sandbox.zenodo.org/api/records/509409/files/TANGO1_ROV6_q1_ortho_whole.tif	2026-06-05 14:06:45.066299	success	NA

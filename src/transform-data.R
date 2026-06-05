@@ -276,8 +276,22 @@ rov_events <- event %>%
     locality = first(na.omit(locality)),
     verbatimLocality = first(na.omit(verbatimLocality)),
     higherGeographyID = first(na.omit(higherGeographyID)),
-    samplingProtocol = "ROV deployment supporting image-based benthic survey.",
     .groups = "drop"
+  ) %>%
+  mutate(
+    samplingProtocol = case_when(
+      first(campaign) == "TANGO1" ~ paste(
+        "ROV deployment supporting image-based benthic survey.",
+        "Methodological details in Danis et al. 2023 (https://doi.org/10.5281/zenodo.8013722)",
+        "and Katz et al. 2025 (https://doi.org/10.1007/s00300-025-03407-4)."
+      ),
+      first(campaign) == "TANGO2" ~ paste(
+        "ROV deployment supporting image-based benthic survey.",
+        "Methodological details in Danis et al. 2024 (https://doi.org/10.5281/zenodo.11653690)",
+        "and Katz et al. 2026 (https://doi.org/10.1002/ece3.73392)."
+      ),
+      TRUE ~ NA_character_
+    )
   )
 
 event_children <- event %>%
@@ -468,7 +482,7 @@ occ <- bind_rows(tango1_long, tango2_long) %>%
       eventID,
       str_extract(sourceFileName, "^[^_]+_[^_]+")
     ),
-    occurrenceID = glue("{eventID}_{imageID}_{header}"),
+    occurrenceID = glue("{imageID}_{header}"),
     scientificName = if_else(
       is.na(scientificName) | str_trim(scientificName) == "",
       "Biota",
@@ -489,8 +503,14 @@ occ <- bind_rows(tango1_long, tango2_long) %>%
       TRUE ~ organismQuantity
     ),
     identificationReferences = "https://doi.org/10.1371/journal.pone.0141039 | https://doi.org/10.5281/zenodo.12653521",
-    identificationRemarks = "Image-based morphotaxon identification using CATAMI labels; taxonomic resolution varies and records represent visible organisms only."
-    
+    identificationRemarks = if_else(
+      is.na(catamiPath),
+      "Image-based morphotaxon identification using CATAMI labels; taxonomic resolution varies and records represent visible organisms only.",
+      str_c(
+        "Image-based morphotaxon identification using CATAMI labels; taxonomic resolution varies and records represent visible organisms only. CATAMI path: ",
+        catamiPath
+        )
+      )
     ) %>%
   select(
     occurrenceID,
@@ -548,7 +568,7 @@ img_eventID <- bind_rows(tango1_long, tango2_long) %>%
 
 # MEDIA
 # find photos and record the directories
-media_dir <- "/Users/ymgan/OneDrive - Royal Belgian Institute of Natural Sciences/TANGO_ROV_images"
+media_dir <- Sys.getenv("MEDIA_DIR")
 
 media <- tibble(
   file_path = list.files(
@@ -563,15 +583,42 @@ media <- tibble(
   ) %>%
   select(file_name, everything())
 
-event_media <- occ %>%
+# this table will also be used to upload media to Zenodo It links the media files to the eventIDs and contains metadata that will be used as Subjects
+ac <- occ %>%
   full_join(media, by = c("sourceFileName" = "file_name")) %>%
-  select(eventID, sourceFileName, file_path, relative_path) %>%
-  distinct()
+  left_join(event %>% select(eventID, campaign, parentEventID, rovID, verbatimLocality, dynamicProperties), by = "eventID") %>%
+  select(eventID, sourceFileName, file_path, relative_path, campaign, parentEventID, rovID, verbatimLocality, dynamicProperties) %>%
+  distinct() %>% 
+  mutate(
+    `dc:type` = "StillImage",
+    `dcterms:type` = "http://purl.org/dc/dcmitype/StillImage",
+    subtype = "http://rs.tdwg.org/acsubtype/values/Photograph",
+    subtypeLiteral = "Photograph",
+    title = str_c("Photo of benthic habitat from ", campaign, ", ", rovID, ", (", sourceFileName, ")"),
+    fundingAttribution = "This work was supported by the “Estimating Tipping points in habitability of ANtarctic benthic ecosystems under GlObal future climate change scenarios” project (TANGO; B2/212/P1/TANGO) funded by the ‘Belgian Science Policy Office (BELSPO)",
+    licenseLogoURL = "https://licensebuttons.net/l/by/4.0/80x15.png",
+    metadataLanguage = "http://id.loc.gov/vocabulary/iso639-2/eng",
+    metadataLanguageLiteral = "eng",
+    provider = "https://orcid.org/0000-0001-5748-602X",
+    providerLiteral = "Lea Katz",
+    `dc:format` = case_when(
+      str_detect(sourceFileName, "\\.tif$") ~ "TIFF",
+      str_detect(sourceFileName, "\\.png$") ~ "PNG",
+      TRUE ~ NA_character_
+    ),
+    `dcterms:format` = case_when(
+      str_detect(sourceFileName, "\\.tif$") ~ "http://rs.tdwg.org/format/values/m011",
+      str_detect(sourceFileName, "\\.png$") ~ "http://rs.tdwg.org/format/values/m007",
+      TRUE ~ NA_character_
+    )
+  )
 
 
 # write files
 write_tsv(event_hierarchical, here("data", "03_processed", "event.txt"), na = "")
 write_tsv(eco, here("data", "03_processed", "humboldt.txt"), na = "")
 write_tsv(occ, here("data", "03_processed", "occurrence.txt"), na = "")
+write_tsv(ac, here("data", "03_processed", "audiovisual.txt"), na = "")
+
 
 
