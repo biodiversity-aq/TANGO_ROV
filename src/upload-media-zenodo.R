@@ -38,14 +38,14 @@ get_zenodo_config <- function(sandbox = TRUE) {
   }
 }
 
-cfg <- get_zenodo_config(sandbox = TRUE)
+cfg <- get_zenodo_config(sandbox = FALSE)
 
 base_url <- cfg$base_url
 token <- cfg$token
 
 stopifnot(token != "")
 
-test <- ac %>% head()
+# test <- ac %>% head(n = 8)
 
 # Each row will become a Zenodo record
 make_subjects <- function(x) {
@@ -110,9 +110,17 @@ upload_one_to_zenodo <- function(row, publish = FALSE) {
       image_type = "photo",
       publication_date = as.character(Sys.Date()),
       communities = list(list(identifier = "tango-rov-imagery")),
-      creators = list(list(name = "TANGO expedition team")),
+      creators = list(list(name = "TANGO project")),
       access_right = "open",
+      contributors = list(
+        list(
+          name = "Katz, Lea",
+          type = "DataCollector",
+          orcid = "0000-0001-5748-602X"
+        )
+      ),
       license = "cc-by-4.0",
+      keywords = list("rov imagery", "benthic habitat", "western antarctic peninsula"),
       subjects = make_subjects(row),
       prereserve_doi = TRUE
     )
@@ -154,7 +162,7 @@ upload_one_to_zenodo <- function(row, publish = FALSE) {
     stop(resp_body_string(file_upload))
   }
   
-  image_url <- glue("{base_url}/records/{deposition_id}/files/{file_name}")
+  image_url <- glue("{base_url}/records/{deposition_id}/files/{file_name}/content")
   
   # 4. Publish only when ready
   if (publish) {
@@ -198,7 +206,7 @@ already_done <- existing_results %>%
   select(sourceFileName, eventID)
 
 
-todo <- test %>%
+todo <- ac %>%
   anti_join(
     existing_results %>% filter(status == "success"),
     by = c("sourceFileName", "eventID")
@@ -232,7 +240,7 @@ for (i in seq_len(nrow(todo))) {
     append = file_exists(results_path)
   )
   
-  Sys.sleep(5)
+  Sys.sleep(1)
 }
 
 zenodo_results <- read_tsv(results_path, show_col_types = FALSE) %>%
@@ -244,6 +252,24 @@ ac_with_zenodo <- ac %>%
     zenodo_results %>%
       select(sourceFileName, eventID, deposition_id, doi, doi_url, image_url),
     by = c("sourceFileName", "eventID")
+  ) %>%
+  rename(
+    `dcterms:identifier` = doi_url,
+    accessURI = image_url
   )
 
+# add image url to Occurrences as associatedMedia, because Occurrence only points to Event and each Event has multiple photos, 
+# hence ppl will not know which photo the Occurrence is associated with. So we add the image url to Occurrences as associatedMedia
+
+occurrence <- occ %>%
+  left_join(
+    ac_with_zenodo %>%
+      select(sourceFileName, associatedMedia = accessURI),
+    by = "sourceFileName"
+  )
+
+
+# image_url should have /content (amended in script)
+write_tsv(ac_with_zenodo, here("data", "03_processed", "audiovisual_zenodo.txt"), na = "")
+write_tsv(occurrence, here("data", "03_processed", "occurrence.txt"), na = "")
 
