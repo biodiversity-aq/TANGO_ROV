@@ -3,6 +3,8 @@
 Dataset published at https://ipt.biodiversity.aq/resource?r=rov-benthic-morphotaxa-wap-tango-2023-2024
 Registered to GBIF, added to OBIS and SCAR network.
 
+GitHub issue for this dataset: https://github.com/biodiversity-aq/ADVANCE/issues/252
+
 # Paper
 
 https://onlinelibrary.wiley.com/doi/10.1002/ece3.73392
